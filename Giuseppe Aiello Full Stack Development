@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Giuseppe Aiello</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+ <h1> Eccoci qua!</h1>
+     <p> Ciao sono Giuseppe Aiello un Full Stack Development, che vive a Como</p>
+     <img class="ciccio" src="img/ciccio.png"> </img>
+<h1 id="title">Giuseppe Aiello, ecco chi è!!!</h1>
+          <p>Sono sempre stato appasionato dal computer e l'informatica!
+                    <br> Mi sono diplomato in ambito informatico e mi sono iscritto appunto a Start2impact
+                    appunto per realizzare la mia passione, programmare e utilizzare il computer.
+                </p>
+
+<div class="footer">
+    <p>Copyright © 2022 Giuseppe Aiello. All Rights Reserved</p>
+</div>
+
+</body>
+<body style="background-color:aquamarine"></body>
+
+</html>
+
